@@ -1,30 +1,3 @@
-# System Profiler
-
-A tool for collecting detailed system information on Linux systems.
-
-## Installation
-
-```bash
-git clone https://github.com/ufuayk/system-profiler
-```
-
-```bash
-cd system-profiler
-```
-
-```bash
-pip install -r requirements.txt
-```
-
-```bash
-python3 main.py
-```
-
-The script saves all system information to `system_profile.json` in the current directory.
-
-## Empty Profile
-
-```json
 {
     "os_info": {
         "hostname": "",
@@ -94,8 +67,3 @@ The script saves all system information to `system_profile.json` in the current 
     },
     "installed_packages": []
 }
-```
-
-## Note
-
-Some functions (etc: the serial number) may require root.
