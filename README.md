@@ -5,7 +5,7 @@ A tool for collecting detailed system information on Linux systems.
 ## Installation
 
 ```bash
-git clone https://github.com/ufuayk/system-profiler
+git clone https://github.com/mbrell/system-profiler
 ```
 
 ```bash
