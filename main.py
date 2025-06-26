@@ -1,4 +1,4 @@
-# Ufuayk's System Profiler (github:ufuayk)
+# github:mbrell
 
 import platform
 import os
